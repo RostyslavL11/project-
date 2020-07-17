@@ -1,0 +1,232 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: #f5f7fa;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  font-family: Montserrat;
+}
+.wrapper {
+  background: #fff;
+  display: flex;
+  max-width: 1200px;
+  margin: 0 auto;
+  box-shadow: 5px 9px 20px rgba(0, 0, 0, 0.15);
+}
+
+.sidebar {
+  background: #1e2939;
+  width: 370px;
+  height: 1450px;
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+.my-photo {
+  width: 370px;
+}
+
+.about-me-conteiner {
+  padding-left: 90px;
+  padding-right: 90px;
+  padding-top: 110px;
+  padding-bottom: 110px;
+}
+
+.contacts-conteiner {
+  margin-left: 40px;
+  margin-right: 40px;
+  margin-top: 60px;
+}
+.contacts-title {
+  color: #ffffff;
+  font-size: 22px;
+  font-weight: 700;
+  line-height: 24px;
+  margin-bottom: 20px;
+}
+.contacts-link {
+  color: #666d78;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+}
+.contacts-link-C-E {
+  color: #fff;
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 24px;
+  margin-right: 10px;
+}
+
+.thech-skills-conteiner {
+  margin-left: 40px;
+  margin-right: 40px;
+  margin-top: 55px;
+}
+.thech-skills-title {
+  color: #fff;
+  font-size: 22px;
+  font-weight: 700;
+  line-height: 24px;
+  margin-bottom: 20px;
+}
+.tech-skill-item {
+  color: #ff6b08; 
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+  margin-left: 15px;
+}
+.tech-skill-text{
+  color: #d8dadd;
+}
+
+.soft-skils-conteiner{
+  margin-left: 40px;
+  margin-right: 40px;
+  margin-top: 55px;
+}
+.soft-skils-title{
+  color: #fff;
+  font-size: 22px;
+  font-weight: 700px;
+  line-height: 24px;
+  margin-bottom: 20px;
+}
+.soft-skils-item{
+  color: #ff6b08;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+  margin-left: 15px;
+}
+.soft-skils-text{
+  color:#d8dadd ;
+}
+
+.info-conteiner{
+  margin-bottom: 65px;
+}
+
+.profession{
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 24px;
+  margin-bottom: 24px;
+}
+
+.name{
+  font-size: 45px;
+  font-weight: 700;
+  line-height: 65px;
+}
+
+.description{
+  color: #595959;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+  margin-top: 24px;
+}
+
+.about-me-title{
+  font-size: 22px;
+  font-weight: 700;
+  line-height: 24px;
+  margin-bottom: 10px;
+}
+
+.projects-link{
+  color: #595959;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+}
+
+.tech-name{
+  color: #595959;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+}
+
+.dots{
+  color: #ebebeb;
+  font-weight: 100;
+}
+
+.projects-item{
+  font-weight: 700;
+  margin-left: 17px;
+}
+
+.projects-conteiner{
+  margin-bottom: 55px;
+}
+
+.profession-title{
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 24px;
+  margin-top: 10px;
+  margin-bottom: 14px;
+}
+
+.profession-company{
+  color: #ff6b08;
+}
+
+.profession-time{
+  color: #a8a8a8;
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 24px;
+  }
+
+.profession-divider{
+  color: #161616;
+}
+
+
+.profession-duties{
+  margin-top: 14px;
+  margin-bottom: 30px;
+  margin-left: 10px;
+}
+
+.profession-duties-item{
+  color: #595959;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+  margin-left: 6px;
+}
+.name-of-university{
+  color: #ff6b08;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 24px;
+  margin-bottom: 10px;
+  }
+.study-subject{
+  color: #000000;
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 24px;
+  margin-bottom: 10px;
+  }
+  .study-time{
+  color: #a8a8a8;
+  font-family: Montserrat;
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 24px;
+  }
+
